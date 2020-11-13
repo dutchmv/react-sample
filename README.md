@@ -11,3 +11,14 @@
 ## 2020-11-13
 nodist ファイルパス通す
 visual studio code
+    ESLintとNode.js Modulesで拡張
+
+npmが古いのでアップデート
+>npm -v
+6.9.0
+
+>nodist npm global 6.13.4
+
+Git historyの拡張を実施 VSCの中でgitのログ見れるようになった
+
+
